@@ -56,7 +56,7 @@ h2 {
 }
 
 .card {
-  background: #feddce;
+  background: rgb(255, 240, 246);
   color: #cc3366;
   border-radius: 8px;
   padding: 1.2rem;
